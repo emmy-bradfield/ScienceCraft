@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sciencecraft",
+  "name": "Science Craft",
+  "description": "A WIP mod which uses science and research to add cool new blocks, and improving the experience on Peaceful Mode",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://www.github.com/emmy-bradfield/ScienceCraft",
+  "updateUrl": "",
+  "authorList": ["Emily Bradfield"],
+  "credits": "Suppergerrie2's tutorial and the internet!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
