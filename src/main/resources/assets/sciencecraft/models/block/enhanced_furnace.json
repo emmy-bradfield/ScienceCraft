@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "sciencecraft:blocks/enhanced_furnace_top",
+        "front": "sciencecraft:blocks/enhanced_furnace_front",
+        "side": "sciencecraft:blocks/enhanced_furnace_side"   
+    }
+}

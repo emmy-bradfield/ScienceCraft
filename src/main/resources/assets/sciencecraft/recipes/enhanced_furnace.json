@@ -1,0 +1,24 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"  ],
+  "key": {
+    "A": [
+      {
+        "item": "sciencecraft:enhanced_stone",
+        "data": 0
+      }
+    ],
+    "B": [
+		{
+			"item":"minecraft:furnace",
+			"data": 0
+		}
+	]
+  },
+  "result": {
+    "item": "sciencecraft:enhanced_furnace"
+  }
+}

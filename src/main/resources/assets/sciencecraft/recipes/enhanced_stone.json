@@ -1,0 +1,18 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+	  "item": "minecraft:stone",
+	  "data": 0
+	},
+	{
+	  "item": "sciencecraft:graphite_crystal",
+	  "data": 0
+	}
+  ],
+  "result": {
+    "item": "sciencescraft:enhanced_stone",
+    "data": 0,
+	"count": 2
+  }
+}

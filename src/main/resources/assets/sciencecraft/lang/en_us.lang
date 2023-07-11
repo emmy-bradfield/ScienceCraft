@@ -1,4 +1,9 @@
-item.magnesium_oxide.name=Magnesium Oxide
-tile.magnesium_ore.name=Magnesium Ore
+item.graphite_crystal.name=Graphite Crystal
 item.magnesium_ingot.name=Magnesium Ingot
+item.magnesium_oxide.name=Magnesium Oxide
+
+tile.enhanced_furnace.name=Enhanced Furnace
+tile.enhanced_stone.name=Enhanced Stone
+tile.graphite_ore.name=Graphite Ore
 tile.magnesium_block.name=Magnesium Block
+tile.magnesium_ore.name=Magnesium Ore
